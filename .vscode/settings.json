@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "FIBONACC.C": "cpp",
+        "FUN_TIME.C": "cpp",
+        "FACTORIA.C": "cpp",
+        "L_S_WITH.C": "cpp",
+        "ITR_TIME.C": "cpp",
+        "RECORDOFEMPLOYEE.C": "cpp"
+    }
+}
