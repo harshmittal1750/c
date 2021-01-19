@@ -5,6 +5,7 @@
         "FACTORIA.C": "cpp",
         "L_S_WITH.C": "cpp",
         "ITR_TIME.C": "cpp",
-        "RECORDOFEMPLOYEE.C": "cpp"
+        "RECORDOFEMPLOYEE.C": "cpp",
+        "EXIT.C": "cpp"
     }
 }
