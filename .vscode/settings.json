@@ -6,6 +6,8 @@
         "L_S_WITH.C": "cpp",
         "ITR_TIME.C": "cpp",
         "RECORDOFEMPLOYEE.C": "cpp",
-        "EXIT.C": "cpp"
+        "EXIT.C": "cpp",
+        "functional": "c",
+        "CPU_SHEDULING_ALGO.C": "cpp"
     }
 }

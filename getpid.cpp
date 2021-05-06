@@ -11,7 +11,7 @@ int main()
     {
         cout << "\nParent Process id : "
              << getpid() << endl;
-        cout << "\nChild Process with parent id : "
+        Scout << "\nChild Process with parent id : "
              << getppid() << endl;
     }
     return 0;
